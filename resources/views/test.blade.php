@@ -11,6 +11,7 @@
 
 <body>
     Alo
+    <script src=""></script>
 </body>
 
 </html>
